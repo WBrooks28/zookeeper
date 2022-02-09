@@ -126,6 +126,28 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Jolyne",
+      "species": "cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "shy",
+        "tiny",
+        "hungry"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Cow",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
